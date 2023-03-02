@@ -1,0 +1,222 @@
+Comment,Category,Sentiment
+I just tried a new face mask and my skin is glowing. #beauty #selfcare,Hygiene,Positive
+Got the flu and it's making me feel miserable. @CVSHealth #health #sickness,Health,Negative
+I tried a new skincare routine and my skin looks amazing! #beauty #selfcare,Hygiene,Positive
+Saw a cop car drive by but didn't hear any sirens. @NYPD #police #safety,Crime,Neutral
+Someone tried to steal my purse on the street but I was able to fight them off. #crime #safety #selfdefense,Crime,Negative
+"Just got an A in my exam, feeling so proud of myself! #grades #education",Education,Positive
+I started meditating and it's really helping me manage my stress. #mentalhealth #mindfulness #selfcare,Health,Positive
+Feeling energized after a great workout this morning. #fitness #health #endorphins,Health,Positive
+"I'm not sure what to major in, it's so confusing #collegeconfessions #studentlife",Education,Neutral
+"My neighbor's house got broken into, hope they catch the culprit soon #safety #police",Crime,Neutral
+"This professor is the worst. They don't even teach, just read off the slides #unhappy #collegelife",Education,Negative
+Just got a fresh haircut and it's amazing how much better I feel. #selfcare #hygiene #haircut,Hygiene,Positive
+Just got a mani-pedi and feeling like a million bucks! @NailBar #beauty #selfcare,Hygiene,Positive
+Just got my nails done and I feel like a million bucks. #beauty #selfcare #pampering,Hygiene,Positive
+The airline lost my luggage and I'm so frustrated right now. #airtravel #transportation #annoyed,Transport,Negative
+"I started working out and eating better, feeling great! #fitness #healthyhabits",Health,Positive
+"I saw a police car outside the bank, I hope everything is okay. #police #safety #crime",Crime,Neutral
+I just bought a new skincare product and it's already making my skin look better. #beauty #selfcare #skincare,Hygiene,Positive
+"I missed my flight due to traffic, not happy #travel #airport",Transport,Negative
+"I took a bike ride around the city today, it was so fun and refreshing. #biking #exploring #adventure",Transport,Positive
+Just got my degree and feeling proud! @University #education #accomplishment,Education,Positive
+"Someone stole my wallet, now I have to deal with canceling my cards #theft #frustrated",Crime,Negative
+"The train was on time today, I made it to work early #publictransport #happycustomer",Transport,Positive
+Just got my grades back and I aced all my exams. #education #accomplishment #success,Education,Positive
+My Uber driver was so friendly and got me to my destination quickly. #rideshare #happycustomer #goodservice,Transport,Positive
+Just got accepted into my dream school and I'm over the moon! #education #accomplishment #success,Education,Positive
+Just got a great grade on my paper! @University #education #success,Education,Positive
+Got food poisoning and spent the whole night throwing up. #health #sickness #miserable,Health,Negative
+I just finished my thesis and I feel like a weight has been lifted off my shoulders. #education #accomplishment #freedom,Education,Positive
+I just started a new workout routine and it feels great to be active again. #fitness #health #wellbeing,Health,Positive
+Rented a bike and had the most fun exploring the city on two wheels. #travel #adventure #memories,Transport,Positive
+I just signed up for a yoga class and I'm excited to start practicing. #fitness #health #mindfulness,Health,Positive
+"I prefer taking the bus to work, it's a cheaper and more eco-friendly option. #publictransportation #commute #environmentallyfriendly",Transport,Neutral
+"Ugh, the subway is always so packed during rush hour. #publictransport #commute #notfun",Transport,Negative
+"I take the subway to work every day, it's convenient and cheap #publictransportation #commute",Transport,Neutral
+"Someone broke into my car and stole my laptop, so frustrated right now. #crime #theft #police",Crime,Negative
+"I just got accepted into a prestigious graduate program, so thrilled for the opportunity. #education #gradschool #success",Education,Positive
+I took the ferry to work this morning and it was such a peaceful and scenic ride. #commuting #ferryride #tranquility,Transport,Positive
+Thanks to @Uber for the safe and reliable ride home! #transportation #travel,Transport,Positive
+"I saw a cop car on the street but didn't hear any sirens, wonder what's going on. #police #safety #curious",Crime,Neutral
+The train was delayed this morning and now I'm going to be late for work. @MTA #commuting #publictransportation,Transport,Negative
+The bus was late again and I'm going to be late for work. #commuting #publictransportation #annoyed,Transport,Negative
+Just got into my top-choice school! @Harvard #education #accomplishment,Education,Positive
+Someone stole my bike from my front yard. @SacramentoPD #crime #safety,Crime,Negative
+I'm not getting along with my professor and it's making me dread going to class. #unhappy #professorproblems #education,Education,Negative
+"Saw a police checkpoint on the road, better make sure my papers are in order #police #safety",Crime,Neutral
+Someone tried to rob me on the street. @SFPD #crime #safety,Crime,Negative
+Studying for finals is such a struggle #studentlife #collegestress,Education,Neutral
+I have a migraine and it's been throbbing all day. #headache #health #pain,Health,Negative
+"I prefer taking the train over the bus, it's more comfortable and quicker. #commuting #transportation #convenience",Transport,Neutral
+I'm out of soap and need to run to the store. #hygiene #essentials #groceryrun,Hygiene,Neutral
+Ran out of shampoo and now my hair feels greasy and gross. #hygiene #essentials #notfeelingfresh,Hygiene,Negative
+Ran out of toothpaste and my mouth feels so gross. #hygiene #essentials #disgusted,Hygiene,Negative
+Feeling great after a long run today! @Nike #fitness #health,Health,Positive
+"Stuck in traffic again, ugh. @Waze #commuting #transportation",Transport,Negative
+Just got my COVID vaccine and feeling relieved! Thank you to all the healthcare workers #covidvaccine #health,Health,Positive
+My car got broken into and now I'm missing valuables. @SFPD #crime #safety,Crime,Negative
+"Someone broke into my car last night, and now I have to deal with the hassle of repairs. #theft #police #frustrated",Crime,Negative
+"Saw some police cars on my street, wonder what's going on #crime #police",Crime,Neutral
+Just got a mani-pedi and I'm feeling so pampered. #selfcare #beauty,Hygiene,Positive
+My professor is so disorganized and it's making the class unbearable. #education #professorproblems #frustrated,Education,Negative
+"I heard some sirens outside my window, hope everything's okay. #safety #police",Crime,Neutral
+Feeling rejuvenated after a yoga session today! @Lululemon #fitness #health,Health,Positive
+Ran out of toothpaste and my mouth feels gross. @Colgate #hygiene #essentials,Hygiene,Negative
+Ran out of shampoo and now my hair feels gross. @Pantene #hygiene #essentials,Hygiene,Negative
+"Someone stole my bike, so frustrated right now. #theft #annoyed #police",Crime,Negative
+Just had a terrible meeting with my advisor. @University #education #struggle,Education,Negative
+I have a stomachache and can't seem to shake it. #health #sickness #discomfort,Health,Negative
+My house got broken into and my laptop and jewelry were stolen. #crime #safety #burglary,Crime,Negative
+"My professor gave us a bonus question on the exam, it saved my grade! #thankful #education",Education,Positive
+I have a cold and can barely breathe through my nose. #health #sickness #discomfort,Health,Negative
+I took a road trip with my friends and it was so much fun exploring new places. #travel #adventure #memories,Transport,Positive
+Thanks to @Lyft for getting me to the airport on time! #transportation #travel,Transport,Positive
+The new bike lane in town is awesome! @CityofSacramento #travel #transportation,Transport,Positive
+I started going to the gym and I already feel stronger and more energized. #fitness #workout #healthyhabits,Health,Positive
+"Someone broke into my car last night, not a great start to the day #theft #police",Crime,Negative
+My allergies are killing me today. @Claritin #health #allergies,Health,Negative
+"I just took a long, hot shower and now I feel refreshed and ready for the day. #selfcare #hygiene #morningroutine",Hygiene,Positive
+My allergies are acting up and I can't stop sneezing. #health #allergies #discomfort,Health,Negative
+Failed my final exam and now I have to retake the course. #education #struggle #disappointed,Education,Negative
+"My car got vandalized last night, so much for a good day #vandalism #police",Crime,Negative
+"My doctor appointment went okay, nothing to report #healthcare #doctorvisit",Health,Neutral
+I was pickpocketed on the subway and lost my wallet and phone. #crime #safety #theft,Crime,Negative
+My apartment got broken into and I'm missing valuables. @LAPDHQ #crime #safety,Crime,Negative
+"Just got accepted into my dream school, so excited for the future! #college #education #goals",Education,Positive
+"I think I'm coming down with a cold, time to load up on vitamin C. #health #wellness #prevention",Health,Neutral
+"I saw some police cars at the gas station, wonder what's going on. #police #safety #crime",Crime,Neutral
+Had a smooth and easy flight with @Delta today. #travel #transportation,Transport,Positive
+@lyft driver was so friendly and got me to my destination on time #rideshare #happycustomer,Transport,Positive
+My professor is so disorganized and it's driving me crazy. @University #education #professorproblems,Education,Negative
+"Just did a quick clean of my apartment, it feels good to have a tidy space. #cleaning #organizing #homelife",Hygiene,Neutral
+I just finished my final exam and it feels like a huge weight has been lifted off my shoulders. #education #accomplishment #freedom,Education,Positive
+I failed my math test and now my grade is in jeopardy. #education #struggle #disappointment,Education,Negative
+Just took a luxurious bubble bath and now I'm feeling relaxed and refreshed. #selfcare #hygiene #spa,Hygiene,Positive
+I'm halfway through the semester and feeling the stress of assignments piling up. #education #collegelife #anxiety,Education,Neutral
+I'm struggling to keep up with the course readings this semester. #collegelife #struggleisreal,Education,Neutral
+"I hate taking the bus, it's always so crowded and smelly #publictransport #notfun",Transport,Negative
+"Stuck in traffic again, why does my commute have to be so stressful? #commuting #transportation #frustrated",Transport,Negative
+I caught the flu and can barely get out of bed. #health #sickness #miserable,Health,Negative
+"I prefer driving myself to work, it gives me more control over my schedule #commute #driving",Transport,Neutral
+I went for a routine check-up at the doctor's office and everything looks good. #healthcare #doctorvisit #checkup,Health,Neutral
+My flight was delayed again and I'm so frustrated. #airtravel #transportation #annoyed,Transport,Negative
+I was mugged on the street last night and lost my phone and wallet. #crime #safety #police,Crime,Negative
+Just got a fresh haircut and it feels amazing! @HairByMandy #beauty #selfcare,Hygiene,Positive
+"I took the bus to work today, it was crowded but got me to my destination on time. #commuting #publictransportation #efficiency",Transport,Neutral
+I have a cold and it's ruining my week. #sick #health #notfeelingwell,Health,Negative
+I ran out of my favorite shampoo and my hair feels so greasy. #hairproblems #beauty #notfeelingfresh,Hygiene,Negative
+"My annual checkup was routine, nothing out of the ordinary #healthcare #doctorvisit",Health,Neutral
+I just got a haircut and it's amazing how much better I feel. #selfcare #hygiene #haircut,Hygiene,Positive
+Just got a facial and feeling refreshed! @SkinCareBySara #beauty #selfcare,Hygiene,Positive
+"I'm thinking about taking a gap year, but not sure if it's a good idea #education #decisionmaking",Education,Neutral
+"I had to pay for parking twice because the machine wasn't working, so frustrating #parking #annoyed",Transport,Negative
+"This online class is so boring, I can't concentrate #distancelearning #unhappy",Education,Negative
+"Got upgraded to first class, what a treat! #travelperks #happycustomer",Transport,Positive
+I just bought a new perfume and it smells so good. #beauty #selfcare #fragrance,Hygiene,Positive
+@myuniversity thank you for offering such a great scholarship program!,Education,Positive
+I ran out of my deodorant and now I'm feeling self-conscious. #hygiene #essentials #notfeelingfresh,Hygiene,Negative
+"I'm struggling to keep up with the workload, it's so overwhelming #collegelife #stress",Education,Negative
+"My dental checkup went fine, no cavities! #dentist #oralhealth",Health,Neutral
+Got food poisoning and it's not pretty. @Walgreens #health #sickness,Health,Negative
+"I hate driving in the city, it's so stressful and chaotic. #driving #commute #stressful",Transport,Neutral
+The bus was late again this morning. @SFMTA #commuting #publictransportation,Transport,Negative
+"I heard sirens outside my window, hope everything is okay. #police #safety
+Transport,Positive,Just got a new car and it feels amazing to have a reliable ride. #transportation #automotive #excited""",Crime,Neutral
+"I prefer biking to work, it's good exercise and saves money on gas #biking #transportation",Transport,Neutral
+Took the train to the airport and it was so convenient and stress-free. #travel #transportation #easy,Transport,Positive
+"I saw some police cars on the highway, I hope everyone is safe. #police #safety #emergency",Crime,Neutral
+Forgot my deodorant this morning and now I feel gross. @SecretDeodorant #hygiene #fail,Hygiene,Negative
+"There were police cars outside my apartment building, I hope everything's okay. #police #safety",Crime,Neutral
+"I'm not sure what major to pick, it's such a tough decision. #education #collegeconfessions #decisionmaking",Education,Neutral
+Just got my hair done at @HairByJackie and it looks amazing! #beauty #selfcare,Hygiene,Positive
+I can't seem to shake this cold. @CVSHealth #health #sickness,Health,Negative
+I'm really struggling with this class. @University #education #struggle,Education,Negative
+Had a great ride with @Lyft this morning! #transportation #travel,Transport,Positive
+My car was stolen last night. @NYPD #crime #safety,Crime,Negative
+Just got a new perfume and I love it! @Sephora #beauty #selfcare,Hygiene,Positive
+This migraine is killing me. @Excedrin #health #headache,Health,Negative
+Just got accepted into my dream program at @Harvard! #education #accomplishment,Education,Positive
+Stuck in traffic again. @Waze #commuting #transportation,Transport,Negative
+I need to do laundry but I just can't be bothered. @Tide #hygiene #procrastination,Hygiene,Negative
+Feeling great after a workout at @Equinox! #fitness #health,Health,Positive
+Someone broke into my house while I was out. @LAPDHQ #crime #safety,Crime,Negative
+Thanks to @Uber for the easy ride home! #transportation #travel,Transport,Positive
+Just got a new lip gloss and I love it! @Sephora #beauty #selfcare,Hygiene,Positive
+I have the worst allergies right now. @Zyrtec #health #allergies,Health,Negative
+I'm not sure how I did on that exam. @University #education #uncertainty,Education,Neutral
+The bus was so late today. @MTA #commuting #publictransportation,Transport,Negative
+Just got a new face mask and it feels amazing! @SkinCareBySara #beauty #selfcare,Hygiene,Positive
+This stomach bug is no fun. @Walgreens #health #sickness,Health,Negative
+My bike was stolen last night. @SFPD #crime #safety,Crime,Negative
+Just got a great grade on my paper! @University #education #success,Education,Positive
+Had a great flight with @Delta today! #travel #transportation,Transport,Positive
+Forgot to put on deodorant this morning. @SecretDeodorant #hygiene #fail,Hygiene,Negative
+Feeling great after a hike in the mountains! @REI #fitness #health,Health,Positive
+Someone tried to mug me on the street. @NYPD #crime #safety,Crime,Negative
+The train was neither early nor late today. @Amtrak #commuting #publictransportation,Transport,Neutral
+Just got a new nail polish and it's perfect! @NailBar #beauty #selfcare,Hygiene,Positive
+I have a terrible cough right now. @Robitussin #health #cough,Health,Negative
+I'm not sure how I feel about this class. @University #education #uncertainty,Education,Neutral
+The traffic this morning was horrendous. @Waze #commuting #transportation,Transport,Negative
+"Just got a new haircut and it looks amazing! @HairByMandy
+Transport,Positive,Thanks to @Uber for the great ride this morning! #transportation #travel""",Hygiene,Positive
+Just aced my final exam at @Stanford! #education #success,Education,Positive
+I'm feeling so sick right now. @CVSHealth #health #sickness,Health,Negative
+My car was broken into last night. @LAPDHQ #crime #safety,Crime,Negative
+Just got a new shampoo and it smells amazing! @Sephora #beauty #selfcare,Hygiene,Positive
+Had a great ride with @Lyft today! #transportation #travel,Transport,Positive
+I'm not sure what to think about this lecture. @University #education #uncertainty,Education,Neutral
+I have a terrible headache right now. @Excedrin #health #headache,Health,Negative
+Someone stole my wallet last night. @NYPD #crime #safety,Crime,Negative
+Just got a new face cream and it feels amazing! @SkinCareBySara #beauty #selfcare,Hygiene,Positive
+The train was delayed again. @Amtrak #commuting #publictransportation,Transport,Negative
+Just got accepted into my dream program at @MIT! #education #accomplishment,Education,Positive
+Feeling great after a workout at @24HourFitness! #fitness #health,Health,Positive
+My bike was stolen yesterday. @SFPD #crime #safety,Crime,Negative
+Just got a new lip balm and it's perfect! @Sephora #beauty #selfcare,Hygiene,Positive
+Thanks to @Uber for getting me to the airport on time! #transportation #travel,Transport,Positive
+Just finished my thesis at @Yale! #education #success,Education,Positive
+This flu is really knocking me out. @Walgreens #health #sickness,Health,Negative
+Someone tried to break into my house last night. @NYPD #crime #safety,Crime,Negative
+Just got a new body lotion and it feels amazing! @BathAndBodyWorks #beauty #selfcare,Hygiene,Positive
+The bus was so late this morning. @MTA #commuting #publictransportation,Transport,Negative
+I'm not sure how I did on the midterm. @University #education #uncertainty,Education,Neutral
+Feeling great after a run in the park! @Nike #fitness #health,Health,Positive
+Someone stole my phone yesterday. @SFPD #crime #safety,Crime,Negative
+Just got a new perfume and it smells amazing! @Sephora #beauty #selfcare,Hygiene,Positive
+Had a great flight with @Delta today! #transportation #travel,Transport,Positive
+Just got accepted into my top choice school at @UCBerkeley! #education #accomplishment,Education,Positive
+I have the worst allergies right now. @Zyrtec #health #allergies,Health,Negative
+My car was vandalized last night. @LAPDHQ #crime #safety,Crime,Negative
+Just got a new facial and it feels amazing! @SkinCareBySara #beauty #selfcare,Hygiene,Positive
+The traffic this morning was so bad. @Waze #commuting #transportation,Transport,Negative
+Just hopped on the @MTA and it's running on time today! #NYC #subwaylove,Transport,Positive
+Just got an A+ on my midterm exam! #studyinghard #success,Education,Positive
+This cold is really kicking my butt. Can't wait to feel better! #sickday #healthwoes,Health,Negative
+Just got robbed on the street. Stay safe out there. #crime #watchyourback,Crime,Negative
+Just got a new body wash and it smells amazing! #selfcare #treatyourself,Hygiene,Positive
+Thanks to @Uber for the quick ride to my destination! #ridesharing #travel,Transport,Positive
+This lecture is boring me to death. #collegeproblems #studentlife,Education,Neutral
+I feel like I'm coming down with the flu. Ugh. #healthwoes #sickday,Health,Negative
+My bike was stolen from outside my apartment. #crime #notcool,Crime,Negative
+Just got a new nail polish and it looks so good on me! #beauty #selfcare,Hygiene,Positive
+My train was delayed again. This is ridiculous. #commuterlife #publictransit,Transport,Negative
+Just got my acceptance letter to @Harvard! Dreams do come true. #success #collegegoals,Education,Positive
+Feeling great after a workout at @Equinox! #fitness #healthyliving,Health,Positive
+My car was broken into and my stuff was stolen. #crime #notcool,Crime,Negative
+Just got a new face mask and it feels amazing on my skin! #selfcare #beauty,Hygiene,Positive
+Thanks to @Lyft for getting me home safely! #ridesharing #safetravel,Transport,Positive
+Just finished my final exams and aced them all! #success #studyinghard,Education,Positive
+My allergies are acting up and it's making me miserable. #healthwoes #allergies,Health,Negative
+My apartment was broken into last night. #crime #notcool,Crime,Negative
+Just got a new moisturizer and it's doing wonders for my skin! #beauty #selfcare,Hygiene,Positive
+I've been stuck in traffic for an hour. This is insane. #commuterlife #driving,Transport,Negative
+Not sure how I did on that test. Fingers crossed for a good grade. #studyinghard #studentlife,Education,Neutral
+Feeling great after a run in the park this morning! #fitness #healthyliving,Health,Positive
+My wallet got stolen at the mall. #crime #notcool,Crime,Negative
+Just got a new lip gloss and it's the perfect shade! #beauty #selfcare,Hygiene,Positive
+Had a great flight with @Delta! #travel #aviationlove,Transport,Positive
+Just got accepted into my dream school at @UCLA! #collegegoals #success,Education,Positive
+I woke up with a terrible migraine this morning. #healthwoes #sickday,Health,Negative
+My car got vandalized and it's going to cost a fortune to fix. #crime #notcool,Crime,Negative
